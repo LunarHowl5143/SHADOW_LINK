@@ -1,4 +1,4 @@
-# KSP Datathon 2026 - Intelligence Portal
+# SHADOW LINK 2026 - Intelligence Portal
 
 [cite_start]We are building the Karnataka State Police (KSP) Advanced Geospatial & Agentic AI Crime Analytics Platform[cite: 4]. [cite_start]This production-grade application transforms distributed record repositories into a proactive, state-level intelligence network[cite: 5].
 

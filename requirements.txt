@@ -1,0 +1,18 @@
+# Core Backend Framework
+fastapi==0.109.2
+uvicorn==0.27.1
+pydantic==2.6.1
+
+# Zoho Catalyst SDK
+zcatalyst-sdk==1.0.0
+
+# Data Synthesis & Scaling
+Faker==22.5.1
+pandas==2.2.0
+
+# API Requests & Utilities
+requests==2.31.0
+python-dotenv==1.0.1
+
+flask>=3.0.0
+zcatalyst-sdk
